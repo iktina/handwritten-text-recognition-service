@@ -34,7 +34,7 @@ Example of input file content:
 
 ## What to expect from this service?
 
-Input image: examples/ocr_image.jpg
+Input image: examples/ocr_image.jpg\
 [![imageban](https://i2.imageban.ru/out/2022/08/30/ad7e6a890af86debd1ebc2480ba48cc6.jpg)](https://imageban.ru)
 
 Response: text: "optical character recognition"
