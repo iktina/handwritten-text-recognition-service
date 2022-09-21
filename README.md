@@ -22,8 +22,7 @@ The user must provide the following inputs in order to start the service and get
 
 Inputs:
 
- -   `endpoint`: -
- -   `method`: -
+ -   `method`: handwrittenOCR
  -   `input_path`: Path to '\*.txt' file containing JSON representation of input argument 'file@data' and its value - path to '\*.[image format extension]' input image file.
 
 Example of input file content:
